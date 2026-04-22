@@ -2,7 +2,7 @@
 This simple Java program asks the user for five test scores, calculates the average score, and displays the average of all the grades.
 
 # Lab: Student Grade Average Calculator
-This program reads five test scores and calculates their average.
+This program reads five test scores and "adds" their average.
 
 ## How to Run
 1. Open the program in your IDE.
