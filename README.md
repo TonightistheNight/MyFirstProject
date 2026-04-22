@@ -18,3 +18,6 @@ Christopher Rojas
 Updated README with lab instructions
 
 Fixed description word formating and signed edit by Connor Ayersman
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by Connory Ayersman on GitHub.
