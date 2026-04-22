@@ -14,5 +14,3 @@ The average is: 45.9
 
 ## Author
 Christopher Rojas
-
-Updated README with lab instructions
